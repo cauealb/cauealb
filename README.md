@@ -11,7 +11,7 @@
 - 🔭 I’m currently studying:
 	- Javascript, NodeJS, Express
 	- Data Structures
-  - versioning control (git)
+  - Versioning control (git)
 
 ## My Skills Include
 
