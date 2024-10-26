@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Cauê Alves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back-End+Junior;Self-taught+Programmer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Junior;Self-taught+Programmer&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Hi, how’s it going? I’m a junior back-end developer from Brazil, and already working in the field. I learn best by doing, so I often take on projects to enhance my skills (you'll probably see more projects as I continue to learn). I consider myself a disciplined person, so feel free to check back in a month—my profile will likely look different, and I’ll have learned a lot more!</h4>
