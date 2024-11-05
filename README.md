@@ -9,7 +9,7 @@
 
 - :bulb: I'm starting out in back-end, but my real goal is to become **Full-Stack.**
 - 🔭 I’m currently studying:
-	- Javascript, NodeJS, Express
+	- Javascript, HTML and CSS
 	- Data Structures
   - Versioning control (git)
 
