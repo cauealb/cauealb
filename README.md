@@ -7,7 +7,7 @@
 <h4 align="center">Hi, how’s it going? I’m a junior front-end developer from Brazil, and already working in the field. I learn best by doing, so I often take on projects to enhance my skills (you'll probably see more projects as I continue to learn). I consider myself a disciplined person, so feel free to check back in a month—my profile will likely look different, and I’ll have learned a lot more!</h4>
 <br>
 
-- :bulb: I'm starting out in back-end, but my real goal is to become **Full-Stack.**
+- :bulb: I'm starting out in front-end, but my real goal is to become **Full-Stack.**
 - 🔭 I’m currently studying:
 	- Javascript, HTML and CSS
 	- Data Structures
