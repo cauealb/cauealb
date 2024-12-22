@@ -10,7 +10,7 @@
 - :bulb: I'm starting out in front-end, but my real goal is to become **Full-Stack.**
 - 🔭 I’m currently studying:
 	- React, HTML + CSS, Tailwind, Typescript
-	- Data Structures (CS50x)
+	- Data Structures
   - Versioning control (git)
 
 ## My Skills Include
